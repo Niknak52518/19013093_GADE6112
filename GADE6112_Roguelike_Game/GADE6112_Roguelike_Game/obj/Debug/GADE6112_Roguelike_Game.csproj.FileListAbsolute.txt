@@ -1,0 +1,8 @@
+E:\Items\Desktop\GADE6112\Games\GADE6112_Roguelike_Game\GADE6112_Roguelike_Game\bin\Debug\GADE6112_Roguelike_Game.exe
+E:\Items\Desktop\GADE6112\Games\GADE6112_Roguelike_Game\GADE6112_Roguelike_Game\bin\Debug\GADE6112_Roguelike_Game.pdb
+E:\Items\Desktop\GADE6112\Games\GADE6112_Roguelike_Game\GADE6112_Roguelike_Game\obj\Debug\GADE6112_Roguelike_Game.csprojAssemblyReference.cache
+E:\Items\Desktop\GADE6112\Games\GADE6112_Roguelike_Game\GADE6112_Roguelike_Game\obj\Debug\GADE6112_Roguelike_Game.Properties.Resources.resources
+E:\Items\Desktop\GADE6112\Games\GADE6112_Roguelike_Game\GADE6112_Roguelike_Game\obj\Debug\GADE6112_Roguelike_Game.csproj.GenerateResource.cache
+E:\Items\Desktop\GADE6112\Games\GADE6112_Roguelike_Game\GADE6112_Roguelike_Game\obj\Debug\GADE6112_Roguelike_Game.csproj.CoreCompileInputs.cache
+E:\Items\Desktop\GADE6112\Games\GADE6112_Roguelike_Game\GADE6112_Roguelike_Game\obj\Debug\GADE6112_Roguelike_Game.exe
+E:\Items\Desktop\GADE6112\Games\GADE6112_Roguelike_Game\GADE6112_Roguelike_Game\obj\Debug\GADE6112_Roguelike_Game.pdb
